@@ -1,0 +1,300 @@
+Título: Counter-Strike 2
+Fecha de lanzamiento: 21 AGO 2012
+Precio: Gratuito
+Valoración: Muy positivas
+Porcentaje positivo: 88 %
+----------------------------------------
+Título: PUBG: BATTLEGROUNDS
+Fecha de lanzamiento: 21 DIC 2017
+Precio: Gratuito
+Valoración: Mayormente positivas
+Porcentaje positivo: 75 %
+----------------------------------------
+Título: Call of Duty®: Modern Warfare® 4
+Fecha de lanzamiento: 22 OCT 2026
+Precio: 69,99€
+Valoración: Muy positivas
+Porcentaje positivo: 80 %
+----------------------------------------
+Título: Dota 2
+Fecha de lanzamiento: 9 JUL 2013
+Precio: Gratuito
+Valoración: Muy positivas
+Porcentaje positivo: 90 %
+----------------------------------------
+Título: AION 2
+Fecha de lanzamiento: 5 OCT 2026
+Precio: Gratuito
+Valoración: Mayormente positivas
+Porcentaje positivo: 74 %
+----------------------------------------
+Título: Phantom Blade Zero
+Fecha de lanzamiento: 28 OCT 2026
+Precio: 59,99€
+Valoración: Muy positivas
+Porcentaje positivo: 96 %
+----------------------------------------
+Título: Rust
+Fecha de lanzamiento: 8 FEB 2018
+Precio: 19,99€
+Valoración: Muy positivas
+Porcentaje positivo: 91 %
+----------------------------------------
+Título: EA SPORTS FC™ 27
+Fecha de lanzamiento: 24 SEP 2026
+Precio: 69,99€
+Valoración: Variadas
+Porcentaje positivo: 49 %
+----------------------------------------
+Título: Cyberpunk 2077
+Fecha de lanzamiento: 9 DIC 2020
+Precio: 59,99€
+Valoración: Muy positivas
+Porcentaje positivo: 92 %
+----------------------------------------
+Título: Dead by Daylight
+Fecha de lanzamiento: 14 JUN 2016
+Precio: 19,99€
+Valoración: Muy positivas
+Porcentaje positivo: 88 %
+----------------------------------------
+Título: Moon Sweepers
+Fecha de lanzamiento: 23 OCT 2026
+Precio: 8,99€
+Valoración: Mayormente positivas
+Porcentaje positivo: 77 %
+----------------------------------------
+Título: NARAKA: BLADEPOINT
+Fecha de lanzamiento: 11 AGO 2021
+Precio: Gratuito
+Valoración: Mayormente positivas
+Porcentaje positivo: 79 %
+----------------------------------------
+Título: NBA 2K27
+Fecha de lanzamiento: 3 SEP 2026
+Precio: 45,00€
+Valoración: Variadas
+Porcentaje positivo: 49 %
+----------------------------------------
+Título: Warframe
+Fecha de lanzamiento: 25 MAR 2013
+Precio: Gratuito
+Valoración: Extremadamente positivas
+Porcentaje positivo: 95 %
+----------------------------------------
+Título: Probably Stolen - Cyberpunk Shopkeeper Sim
+Fecha de lanzamiento: 28 OCT 2026
+Precio: 17,99€
+Valoración: Extremadamente positivas
+Porcentaje positivo: 97 %
+----------------------------------------
+Título: FINAL FANTASY RESONANCE
+Fecha de lanzamiento: 22 OCT 2026
+Precio: 49,99€
+Valoración: Extremadamente positivas
+Porcentaje positivo: 96 %
+----------------------------------------
+Título: Crimson Desert Enhanced
+Fecha de lanzamiento: 19 MAR 2026
+Precio: 69,99€
+Valoración: Muy positivas
+Porcentaje positivo: 93 %
+----------------------------------------
+Título: Queen's Domain
+Fecha de lanzamiento: 30 OCT 2026
+Precio: 16,56€
+Valoración: Extremadamente positivas
+Porcentaje positivo: 95 %
+----------------------------------------
+Título: ARC Raiders
+Fecha de lanzamiento: 30 OCT 2025
+Precio: 39,99€
+Valoración: Muy positivas
+Porcentaje positivo: 89 %
+----------------------------------------
+Título: Cyberpunk 2077: Phantom Liberty
+Fecha de lanzamiento: 25 SEP 2023
+Precio: 29,99€
+Valoración: Muy positivas
+Porcentaje positivo: 94 %
+----------------------------------------
+Título: ARK: Survival Ascended
+Fecha de lanzamiento: 25 OCT 2023
+Precio: 11,24€
+Valoración: Mayormente positivas
+Porcentaje positivo: 70 %
+----------------------------------------
+Título: Marvel Rivals
+Fecha de lanzamiento: 5 DIC 2024
+Precio: Gratuito
+Valoración: Mayormente positivas
+Porcentaje positivo: 79 %
+----------------------------------------
+Título: Apex Legends™
+Fecha de lanzamiento: 4 NOV 2020
+Precio: Gratuito
+Valoración: Muy positivas
+Porcentaje positivo: 83 %
+----------------------------------------
+Título: R.E.P.O.
+Fecha de lanzamiento: 26 FEB 2025
+Precio: 6,16€
+Valoración: Extremadamente positivas
+Porcentaje positivo: 97 %
+----------------------------------------
+Título: Euro Truck Simulator 2
+Fecha de lanzamiento: 12 OCT 2012
+Precio: 19,99€
+Valoración: Extremadamente positivas
+Porcentaje positivo: 98 %
+----------------------------------------
+Título: War Thunder
+Fecha de lanzamiento: 15 AGO 2013
+Precio: Gratuito
+Valoración: Muy positivas
+Porcentaje positivo: 84 %
+----------------------------------------
+Título: Call of Duty®
+Fecha de lanzamiento: 27 OCT 2022
+Precio: No disponible
+Valoración: Variadas
+Porcentaje positivo: 67 %
+----------------------------------------
+Título: Grand Theft Auto V Enhanced
+Fecha de lanzamiento: 4 MAR 2025
+Precio: 29,99€
+Valoración: Muy positivas
+Porcentaje positivo: 91 %
+----------------------------------------
+Título: Bodycam
+Fecha de lanzamiento: 7 JUN 2024
+Precio: 33,32€
+Valoración: Muy positivas
+Porcentaje positivo: 86 %
+----------------------------------------
+Título: Forza Horizon 6
+Fecha de lanzamiento: 18 MAY 2026
+Precio: 69,99€
+Valoración: Muy positivas
+Porcentaje positivo: 92 %
+----------------------------------------
+Título: WARDOGS
+Fecha de lanzamiento: 10 SEP 2026
+Precio: 39,99€
+Valoración: Mayormente positivas
+Porcentaje positivo: 78 %
+----------------------------------------
+Título: Steam Frame
+Fecha de lanzamiento: 14 SEP 2026
+Precio: 1 049,00€
+Valoración: Sin valoraciones
+Porcentaje positivo: No disponible
+----------------------------------------
+Título: Planet Zoo 2
+Fecha de lanzamiento: 13 OCT 2026
+Precio: 49,99€
+Valoración: Variadas
+Porcentaje positivo: 63 %
+----------------------------------------
+Título: Tom Clancy's Rainbow Six Siege
+Fecha de lanzamiento: 1 DIC 2015
+Precio: Gratuito
+Valoración: Muy positivas
+Porcentaje positivo: 90 %
+----------------------------------------
+Título: Wuthering Waves
+Fecha de lanzamiento: 28 ABR 2025
+Precio: Gratuito
+Valoración: Muy positivas
+Porcentaje positivo: 91 %
+----------------------------------------
+Título: ELDEN RING
+Fecha de lanzamiento: 24 FEB 2022
+Precio: 59,99€
+Valoración: Extremadamente positivas
+Porcentaje positivo: 97 %
+----------------------------------------
+Título: CONTROL Resonant
+Fecha de lanzamiento: 24 SEP 2026
+Precio: 47,99€
+Valoración: Muy positivas
+Porcentaje positivo: 97 %
+----------------------------------------
+Título: How to Fish
+Fecha de lanzamiento: 20 AGO 2026
+Precio: 7,49€
+Valoración: Extremadamente positivas
+Porcentaje positivo: 97 %
+----------------------------------------
+Título: Can 'Em All
+Fecha de lanzamiento: 30 OCT 2026
+Precio: 6,29€
+Valoración: Extremadamente positivas
+Porcentaje positivo: 97 %
+----------------------------------------
+Título: BeamNG.drive
+Fecha de lanzamiento: 29 MAY 2015
+Precio: 22,50€
+Valoración: Extremadamente positivas
+Porcentaje positivo: 97 %
+----------------------------------------
+Título: Borderlands 4
+Fecha de lanzamiento: 11 SEP 2025
+Precio: 34,99€
+Valoración: Variadas
+Porcentaje positivo: 64 %
+----------------------------------------
+Título: Assassin's Creed Black Flag Resynced
+Fecha de lanzamiento: 9 JUL 2026
+Precio: 44,99€
+Valoración: Muy positivas
+Porcentaje positivo: 92 %
+----------------------------------------
+Título: Enshrouded
+Fecha de lanzamiento: 15 OCT 2026
+Precio: 39,99€
+Valoración: Muy positivas
+Porcentaje positivo: 92 %
+----------------------------------------
+Título: Age of Wonders 4
+Fecha de lanzamiento: 2 MAY 2023
+Precio: 19,99€
+Valoración: Muy positivas
+Porcentaje positivo: 81 %
+----------------------------------------
+Título: Project Zomboid
+Fecha de lanzamiento: 8 NOV 2013
+Precio: 25,49€
+Valoración: Extremadamente positivas
+Porcentaje positivo: 97 %
+----------------------------------------
+Título: Steam Machine
+Fecha de lanzamiento: 22 JUN 2026
+Precio: 1 039,00€
+Valoración: Sin valoraciones
+Porcentaje positivo: No disponible
+----------------------------------------
+Título: Football Manager 27
+Fecha de lanzamiento: 10 NOV 2026
+Precio: 53,99€
+Valoración: Sin valoraciones
+Porcentaje positivo: No disponible
+----------------------------------------
+Título: CRACK
+Fecha de lanzamiento: 26 OCT 2026
+Precio: 7,99€
+Valoración: Muy positivas
+Porcentaje positivo: 91 %
+----------------------------------------
+Título: PEAK
+Fecha de lanzamiento: 16 JUN 2025
+Precio: 4,64€
+Valoración: Extremadamente positivas
+Porcentaje positivo: 96 %
+----------------------------------------
+Título: HELLDIVERS™ 2
+Fecha de lanzamiento: 8 FEB 2024
+Precio: 39,99€
+Valoración: Muy positivas
+Porcentaje positivo: 88 %
+----------------------------------------
